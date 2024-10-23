@@ -5,6 +5,7 @@
 	import { locale } from 'svelte-i18n';
 	function handleLocaleChange(selectedLanguage: 'en' | 'fr' | 'de' = 'en') {
 		$locale = selectedLanguage;
+		localStorage.setItem('locale', selectedLanguage);
 	}
 </script>
 
