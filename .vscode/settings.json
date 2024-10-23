@@ -1,3 +1,14 @@
 {
-	"i18n-ally.localesPaths": ["src/lib/lang"]
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.tabWidth": 4,
+	"editor.indentSize": "tabSize",
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"files.insertFinalNewline": true,
+	"i18n-ally.localesPaths": ["src/lib/lang"],
+	"i18n-ally.keystyle": "nested",
+	"[svelte]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
 }
