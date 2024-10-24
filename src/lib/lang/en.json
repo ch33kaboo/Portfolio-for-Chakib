@@ -1,11 +1,13 @@
 {
-	"english": "English",
-	"french": "French",
-	"german": "German",
-	"about": "About",
-	"skills": "Skills",
-	"projects": "Projects",
-	"blog": "Blog",
-	"contact": "Contact",
-	"selected_language": "Selected language:"
+	"navbar": {
+		"english": "English",
+		"french": "French",
+		"german": "German",
+		"about": "About",
+		"skills": "Skills",
+		"projects": "Projects",
+		"blog": "Blog",
+		"contact": "Contact",
+		"selected_language": "Selected language"
+	}
 }
