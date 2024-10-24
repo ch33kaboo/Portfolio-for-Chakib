@@ -21,21 +21,43 @@ janasundardotdev -->
 		<li><a class="capitalize" href="#contact">{$_('navbar.contact')}</a></li>
 		<li>
 			<details>
-				<summary class="capitalize">language</summary>
-				<ul class="bg-base-100 rounded-t-none p-2">
+				<summary class="capitalize"
+					>{$_('navbar.language')} : {$_(
+						`navbar.${$locale == 'en' ? 'english' : $locale == 'fr' ? 'french' : 'german'}`
+					)}</summary
+				>
+				<ul class="bg-base-100 rounded-t-none p-2 right-0">
+					<!-- svelte-ignore a11y-missing-attribute -->
 					<li>
-						<a href="" class="capitalize" on:click={() => handleLocaleChange('en')}
-							>{$_('navbar.english')}</a
+						<!-- svelte-ignore a11y-no-static-element-interactions -->
+						<!-- svelte-ignore a11y-click-events-have-key-events -->
+						<a
+							class="capitalize {$locale == 'en'
+								? 'font-bold underline bg-gray-100 bg-opacity-[0.03]'
+								: ''}"
+							on:click={() => handleLocaleChange('en')}>{$_('navbar.english')}</a
 						>
 					</li>
+					<!-- svelte-ignore a11y-missing-attribute -->
 					<li>
-						<a href="" class="capitalize" on:click={() => handleLocaleChange('fr')}
-							>{$_('navbar.french')}</a
+						<!-- svelte-ignore a11y-no-static-element-interactions -->
+						<!-- svelte-ignore a11y-click-events-have-key-events -->
+						<a
+							class="capitalize {$locale == 'fr'
+								? 'font-bold underline bg-gray-100 bg-opacity-[0.03]'
+								: ''}"
+							on:click={() => handleLocaleChange('fr')}>{$_('navbar.french')}</a
 						>
 					</li>
+					<!-- svelte-ignore a11y-missing-attribute -->
 					<li>
-						<a href="" class="capitalize" on:click={() => handleLocaleChange('de')}
-							>{$_('navbar.german')}</a
+						<!-- svelte-ignore a11y-no-static-element-interactions -->
+						<!-- svelte-ignore a11y-click-events-have-key-events -->
+						<a
+							class="capitalize {$locale == 'de'
+								? 'font-bold underline bg-gray-100 bg-opacity-[0.03]'
+								: ''}"
+							on:click={() => handleLocaleChange('de')}>{$_('navbar.german')}</a
 						>
 					</li>
 				</ul>
