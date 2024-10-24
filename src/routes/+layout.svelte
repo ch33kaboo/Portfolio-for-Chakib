@@ -6,6 +6,7 @@
 	import { locale, waitLocale } from 'svelte-i18n';
 	import Navbar from '$lib/components/Navbar.svelte';
 	import Footer from '$lib/components/Footer.svelte';
+	import { isLocaleLoaded } from '$lib/i18n';
 
 	// as soon as the browser is initialized, set locale to user's default browser language
 	export const load = async () => {
@@ -17,8 +18,11 @@
 	};
 </script>
 
-<div class="flex flex-col">
-	<Navbar />
-	<slot />
-	<Footer />
-</div>
+<!-- added this condition because accessing locales that are not loaded causes errors, and we want to do this to all the website, so I put it here in +layout.svelte -->
+{#if $isLocaleLoaded}
+	<div class="flex flex-col">
+		<Navbar />
+		<slot />
+		<Footer />
+	</div>
+{/if}
