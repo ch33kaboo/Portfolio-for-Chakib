@@ -15,6 +15,13 @@
 <div class="content">
 	{#if $isLocaleLoaded}
 		<h1>{$_('body_text')}</h1>
+		<h1>{$_('body_text')}</h1>
+		<h1>{$_('body_text')}</h1>
+		<h1>{$_('body_text')}</h1>
+		<h1>{$_('body_text')}</h1>
+		<h1>{$_('body_text')}</h1>
+		<h1>{$_('body_text')}</h1>
+		<h1>{$_('body_text')}</h1>
 	{:else}
 		<div>Locale initializing...</div>
 	{/if}
