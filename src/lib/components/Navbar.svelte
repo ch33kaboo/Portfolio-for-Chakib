@@ -26,7 +26,7 @@ janasundardotdev -->
 						`navbar.${$locale == 'en' ? 'english' : $locale == 'fr' ? 'french' : 'german'}`
 					)}</summary
 				>
-				<ul class="bg-base-100 rounded-t-none p-2 right-0">
+				<ul class="bg-base-100 p-2 right-0 border-white border-[1px] border-opacity-5">
 					<!-- svelte-ignore a11y-missing-attribute -->
 					<li>
 						<!-- svelte-ignore a11y-no-static-element-interactions -->
