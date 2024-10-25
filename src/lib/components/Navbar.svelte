@@ -14,14 +14,14 @@ janasundardotdev -->
 
 <nav class="my-[68px] navbar bg-base-100 sticky top-0 flex flex-row justify-center">
 	<ul class="menu menu-horizontal flex flex-row justify-center gap-4">
-		<li><a class="capitalize" href="#about">{$_('navbar.about')}</a></li>
-		<li><a class="capitalize" href="#skills">{$_('navbar.skills')}</a></li>
-		<li><a class="capitalize" href="#projects">{$_('navbar.projects')}</a></li>
-		<li><a class="capitalize" href="#blog">{$_('navbar.blog')}</a></li>
-		<li><a class="capitalize" href="#contact">{$_('navbar.contact')}</a></li>
+		<li><a class="capitalize text-base" href="#about">{$_('navbar.about')}</a></li>
+		<li><a class="capitalize text-base" href="#skills">{$_('navbar.skills')}</a></li>
+		<li><a class="capitalize text-base" href="#projects">{$_('navbar.projects')}</a></li>
+		<li><a class="capitalize text-base" href="#blog">{$_('navbar.blog')}</a></li>
+		<li><a class="capitalize text-base" href="#contact">{$_('navbar.contact')}</a></li>
 		<li>
 			<details>
-				<summary class="capitalize"
+				<summary class="capitalize text-base"
 					>{$_('navbar.language')} : {$_(
 						`navbar.${$locale == 'en' ? 'english' : $locale == 'fr' ? 'french' : 'german'}`
 					)}</summary
