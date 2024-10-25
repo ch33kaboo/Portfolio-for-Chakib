@@ -1,5 +1,5 @@
 <footer
-	class="text-center flex flex-col sm:flex-row gap-2 justify-around border-t-[1px] border-white border-opacity-15 py-2 font-medium"
+	class="text-center flex flex-col sm:flex-row gap-2 justify-around items-center border-t-[1px] border-white border-opacity-15 py-2 font-medium"
 >
 	<p class="opacity-80">Developed with ❤️ by Chakib (aka ch33kaboo)</p>
 	<p class="opacity-80">
