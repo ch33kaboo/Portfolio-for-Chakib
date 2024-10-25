@@ -2,6 +2,7 @@
 	import About from '$lib/components/About.svelte';
 	import Blog from '$lib/components/Blog.svelte';
 	import Contact from '$lib/components/Contact.svelte';
+	import HeroSection from '$lib/components/HeroSection.svelte';
 	import Projects from '$lib/components/Projects.svelte';
 	import Skills from '$lib/components/Skills.svelte';
 	import { isLocaleLoaded } from '$lib/i18n';
@@ -14,6 +15,7 @@
 	}
 </script>
 
+<HeroSection />
 <About />
 <Skills />
 <Projects />
