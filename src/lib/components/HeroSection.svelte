@@ -1,5 +1,5 @@
 <section
-	class="flex flex-col justify-center gap-5 mt-14 sm:mt-6 mb-14 items-start mx-8 sm:mx-64"
+	class="flex flex-col justify-center gap-5 mt-14 sm:mt-6 mb-0 sm:mb-14 items-start mx-8 sm:mx-64"
 	style="font-family: Arial, Helvetica, sans-serif;"
 >
 	<h1 class="text-4xl sm:text-6xl font-bold text-gray-100 sm:-ml-1">Chakib Ouzane</h1>
