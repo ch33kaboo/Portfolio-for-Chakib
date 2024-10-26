@@ -12,8 +12,10 @@ janasundardotdev -->
 	}
 </script>
 
-<nav class="my-3 sm:my-[68px] navbar bg-base-100 sm:sticky sm:top-0 flex flex-row justify-center">
-	<ul class="menu menu-horizontal flex flex-row justify-center gap-4">
+<nav
+	class="sm:my-[68px] navbar bg-base-100 sticky top-0 flex flex-row justify-center bg-opacity-95 backdrop-blur"
+>
+	<ul class="menu menu-horizontal flex flex-row justify-center gap-0 sm:gap-4">
 		<li><a class="capitalize text-base" href="#about">{$_('navbar.about')}</a></li>
 		<li><a class="capitalize text-base" href="#skills">{$_('navbar.skills')}</a></li>
 		<li><a class="capitalize text-base" href="#projects">{$_('navbar.projects')}</a></li>
