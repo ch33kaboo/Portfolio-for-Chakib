@@ -13,7 +13,7 @@ janasundardotdev -->
 </script>
 
 <nav
-	class="sm:my-[68px] navbar bg-base-100 sticky top-0 flex flex-row justify-center bg-opacity-95 backdrop-blur"
+	class="sm:my-[68px] navbar bg-base-100 sticky top-0 flex flex-row justify-center bg-opacity-90 backdrop-blur-3xl"
 >
 	<ul class="menu menu-horizontal flex flex-row justify-center gap-0 sm:gap-4">
 		<li><a class="capitalize text-base" href="#about">{$_('navbar.about')}</a></li>
