@@ -18,73 +18,51 @@
 			voluptatibus, esse dolor.
 		</p> -->
 		<div class="bg-white bg-opacity-10 min-w-48 h-56">
-			<h3>haja</h3>
+			<h6 class="font-semibold text-lg">Languages</h6>
 			<ul>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
+				<li>JavaScript</li>
+				<li>TypeScript</li>
+				<li>python</li>
+				<li>SQL</li>
 			</ul>
 		</div>
 		<div class="bg-white bg-opacity-10 min-w-48 h-56">
-			<h3>haja</h3>
+			<h6 class="font-semibold text-lg">Frontend</h6>
 			<ul>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
+				<li>Svelte & SvelteKit</li>
+				<li>React</li>
+				<li>Tailwind CSS</li>
 			</ul>
 		</div>
 		<div class="bg-white bg-opacity-10 min-w-48 h-56">
-			<h3>haja</h3>
+			<h6 class="font-semibold text-lg">Backend</h6>
 			<ul>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
+				<li>Node.js</li>
+				<li>Express.js</li>
+				<li>NestJS</li>
 			</ul>
 		</div>
 		<div class="bg-white bg-opacity-10 min-w-48 h-56">
-			<h3>haja</h3>
+			<h6 class="font-semibold text-lg">Databases</h6>
 			<ul>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
+				<li>MongoDB</li>
+				<li>PostgreSQL</li>
+				<li>Redis</li>
 			</ul>
 		</div>
 		<div class="bg-white bg-opacity-10 min-w-48 h-56">
-			<h3>haja</h3>
+			<h6 class="font-semibold text-lg">Tools & Other</h6>
 			<ul>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
+				<li>Git & GitHub</li>
+				<li>Docker</li>
+				<li>Vercel & Netlify</li>
 			</ul>
 		</div>
 		<div class="bg-white bg-opacity-10 min-w-48 h-56">
-			<h3>haja</h3>
+			<h6 class="font-semibold text-lg">IT Systems</h6>
 			<ul>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-			</ul>
-		</div>
-		<div class="bg-white bg-opacity-10 min-w-48 h-56">
-			<h3>haja</h3>
-			<ul>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
-				<li>lowla</li>
+				<li>Networking</li>
+				<li>IoT</li>
 			</ul>
 		</div>
 	</div>
