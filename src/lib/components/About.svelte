@@ -17,5 +17,25 @@
 			ullam explicabo eaque tempore, repellat vel minima sint omnis cum cupiditate reprehenderit
 			voluptatibus, esse dolor.
 		</p>
+		<a
+			class="border rounded-md px-4 py-2 mt-4 bg-white text-base-100 font-bold flex w-fit gap-2 items-center shadow"
+			target="_blank"
+			rel="noopener noreferrer"
+			href="/resume.pdf"
+			>Resume CV Lebenslauf.pdf <svg
+				xmlns="http://www.w3.org/2000/svg"
+				class="icon icon-tabler icon-tabler-download"
+				width="24"
+				height="24"
+				stroke-width="1.5"
+				stroke="currentColor"
+				fill="none"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+				><path d="M0 0h24v24H0z" stroke="none"></path><path
+					d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2M7 11l5 5 5-5M12 4v12"
+				></path></svg
+			></a
+		>
 	</div>
 </section>
