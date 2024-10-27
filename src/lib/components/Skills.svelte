@@ -3,7 +3,7 @@
 	class="flex flex-col justify-center gap-5 py-28 sm:py-20 items-start mx-8 sm:mx-64"
 	style="font-family: Arial, Helvetica, sans-serif;"
 >
-	<h6 class="uppercase text-lg tracking-wide font-bold text-gray-300/90">Skills & Expertise</h6>
+	<h6 class="uppercase text-xl tracking-wide font-bold text-gray-300/90">Skills & Expertise</h6>
 	<div class="w-full flex flex-row flex-wrap justify-start items-center gap-5">
 		<!-- <p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
 			I'm a software Engineer from Algeria. A javascript enthusiast Lorem ipsum dolor sit amet
