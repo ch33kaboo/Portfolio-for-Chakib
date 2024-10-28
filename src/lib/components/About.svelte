@@ -6,16 +6,22 @@
 	<h6 class="uppercase text-xl tracking-wide font-bold text-gray-300/90">about me</h6>
 	<div class="w-full flex flex-col justify-center items-start gap-2">
 		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
-			I'm a software Engineer from Algeria. A javascript enthusiast Lorem ipsum dolor sit amet
-			consectetur, adipisicing elit. Possimus architecto, itaque illo quis impedit consequuntur
-			ullam explicabo eaque tempore, repellat vel minima sint omnis cum cupiditate reprehenderit
-			voluptatibus, esse dolor.
+			Hi, I'm Chakib Ouzane (aka <span class="italic font-sans">ch33kaboo</span>), a 22-year-old
+			final-year Computer Science student from Algeria. As a full-stack web developer, I have a
+			passion for building efficient, scalable backend systems alongside their intuitive, responsive
+			frontend experiences to create seamless full-stack solutions.
 		</p>
 		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
-			I'm a software Engineer from Algeria. A javascript enthusiast Lorem ipsum dolor sit amet
-			consectetur, adipisicing elit. Possimus architecto, itaque illo quis impedit consequuntur
-			ullam explicabo eaque tempore, repellat vel minima sint omnis cum cupiditate reprehenderit
-			voluptatibus, esse dolor.
+			My portfolio showcases a range of projects that reflect my skills and enthusiasm for
+			development.
+		</p>
+		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
+			I'm continuously exploring new technologies and working on projects that challenge me to grow.
+			My goal is to contribute to innovative projects that push the boundaries of web development.
+		</p>
+		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
+			Alongside web development, I’m also interested in networking and IoT, and I’ve had the
+			opportunity to experiment with these technologies in university labs.
 		</p>
 		<a
 			class="border rounded-md px-4 py-2 mt-4 bg-white text-base-100 font-bold flex w-fit gap-2 items-center shadow"
