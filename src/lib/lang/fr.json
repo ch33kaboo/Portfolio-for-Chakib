@@ -9,5 +9,16 @@
 		"blog": "Blog",
 		"contact": "Contact",
 		"language": "Langue"
+	},
+	"heroSection": {
+		"description": "<span class='text-gray-100'>Développeur Web et passionné de technologie.</span> Intéressé par tout ce qui touche au Web, au réseau et au monde de la technologie."
+	},
+	"aboutSection": {
+		"title": "À propos de moi",
+		"intro": "Bonjour, je suis Chakib Ouzane (alias <span class='italic font-sans'>ch33kaboo</span>), un étudiant algérien de 22 ans en dernière année d'informatique. En tant que développeur web full-stack, je suis passionné par la création de systèmes backend efficaces et évolutifs, ainsi que par des expériences frontend intuitives et réactives (en: responsive) pour créer des solutions full-stack sans faille.",
+		"portfolio": "Mon portfolio présente une gamme de projets qui reflètent mes compétences et mon enthousiasme pour le développement.",
+		"goals": "Je continue d'explorer de nouvelles technologies et de travailler sur des projets qui me poussent à évoluer. Mon objectif est de contribuer à des projets innovants qui repoussent les limites du développement web.",
+		"additionalInterests": "En plus du développement web, je m'intéresse également aux réseaux et à l'IoT, et j'ai eu l'occasion de tester ces technologies dans des laboratoires universitaires.",
+		"CV": "CV"
 	}
 }
