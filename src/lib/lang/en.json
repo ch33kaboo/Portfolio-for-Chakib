@@ -20,5 +20,13 @@
 		"goals": "I'm continuously exploring new technologies and working on projects that challenge me to grow. My goal is to contribute to innovative projects that push the boundaries of web development.",
 		"additionalInterests": "Alongside web development, I’m also interested in networking and IoT, and I’ve had the opportunity to experiment with these technologies in university labs.",
 		"CV": "Resume"
+	},
+	"skillsSection": {
+		"title": "Skills & Expertise",
+		"languages": "Languages",
+		"databases": "Databases",
+		"toolsOther": "Tools & Other",
+		"itSystems": "IT Systems",
+		"networking": "Networking"
 	}
 }

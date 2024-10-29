@@ -20,5 +20,13 @@
 		"goals": "Ich erkunde ständig neue Technologien und arbeite an Projekten, die mich herausfordern, zu wachsen. Mein Ziel ist es, zu innovativen Projekten beizutragen, die die Grenzen der Webentwicklung erweitern.",
 		"additionalInterests": "Neben der Webentwicklung interessiere ich mich auch für Netzwerke und IoT, und ich hatte die Gelegenheit, diese Technologien in Universitätslaboren zu testen.",
 		"CV": "Lebenslauf"
+	},
+	"skillsSection": {
+		"title": "Fähigkeiten & Expertise",
+		"languages": "Programmiersprachen",
+		"databases": "Datenbanken",
+		"toolsOther": "Werkzeuge & Sonstiges",
+		"itSystems": "IT-Systeme",
+		"networking": "Netzwerke"
 	}
 }
