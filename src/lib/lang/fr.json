@@ -28,5 +28,9 @@
 		"toolsOther": "Outils & Autre",
 		"itSystems": "Systèmes informatiques",
 		"networking": "Réseau"
+	},
+	"contactSection": {
+		"title": "Me Contacter",
+		"description": "Je suis toujours ouvert à discuter de nouveaux projets, d'idées créatives ou d'opportunités pour faire partie de vos visions. N'hésitez pas à me contacter!"
 	}
 }
