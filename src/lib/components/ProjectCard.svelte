@@ -1,4 +1,6 @@
-<div class="bg-gray-50 bg-opacity-5 w-full flex flex-col gap-4">
+<div
+	class="bg-gray-50 bg-opacity-5 w-full flex flex-col gap-4 p-3 rounded-md sm:p-5 sm:rounded-lg border-white border-[1px] border-opacity-10 shadow-md hover:shadow-lg hover:border-opacity-20 transition-all"
+>
 	<h6 class="font-semibold text-lg">Real-time Chat App</h6>
 	<div class="flex flex-col justify-start items-start gap-2">
 		<p>
@@ -17,7 +19,7 @@
 	</div>
 	<div class="flex flex-row gap-3">
 		<button
-			class="btn btn-active btn-ghost no-animation hover:border-white hover:border-opacity-45 px-6"
+			class="btn btn-active btn-ghost no-animation hover:border-white hover:border-opacity-40 px-6"
 		>
 			<svg
 				width="24"
@@ -41,7 +43,7 @@
 			<p class="ml-1">Code</p>
 		</button>
 		<button
-			class="btn btn-active btn-ghost no-animation hover:border-white hover:border-opacity-45 px-6"
+			class="btn btn-active btn-ghost no-animation hover:border-white hover:border-opacity-40 px-6"
 		>
 			<svg
 				width="24"
