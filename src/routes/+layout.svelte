@@ -20,9 +20,11 @@
 
 <!-- added this condition because accessing locales that are not loaded causes errors, and we want to do this to all the website, so I put it here in +layout.svelte -->
 {#if $isLocaleLoaded}
-	<div class="flex flex-col">
+	<div class="flex flex-col justify-between min-h-screen">
 		<Navbar />
-		<slot />
+		<div class="flex flex-col">
+			<slot />
+		</div>
 		<Footer />
 	</div>
 {/if}
