@@ -29,6 +29,15 @@
 		"itSystems": "IT-Systeme",
 		"networking": "Netzwerke"
 	},
+	"projectsSection": {
+		"title": "Projekte",
+		"project1": {
+			"projectTitle": "de projectTitle",
+			"description": "de description",
+			"keyFeatures": "de keyFeatures",
+			"techStack": "de techStack"
+		}
+	},
 	"contactSection": {
 		"title": "Kontakt aufnehmen",
 		"description": "Ich bin immer offen für neue Projekte, kreative Ideen oder die Möglichkeit, Teil Ihrer Visionen zu sein. Zögern Sie nicht, mich zu kontaktieren!"
