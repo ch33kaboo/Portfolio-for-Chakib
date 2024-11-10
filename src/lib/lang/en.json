@@ -31,6 +31,12 @@
 	},
 	"projectsSection": {
 		"title": "Projects",
+		"card": {
+			"description": "Description",
+			"keyFeatures": "Key Features",
+			"sourceCode": "Source Code",
+			"liveDemo": "Live Demo"
+		},
 		"project1": {
 			"projectTitle": "en projectTitle",
 			"description": "en description",
