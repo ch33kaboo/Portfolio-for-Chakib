@@ -36,7 +36,7 @@
 			{#if codeURL}
 				<a href={codeURL} rel="noopener noreferrer" target="_blank" aria-label="code">
 					<button
-						class="btn btn-active btn-ghost flex flex-row no-animation hover:border-white hover:border-opacity-40 sm:px-6"
+						class="btn btn-active btn-ghost flex flex-row no-animation hover:border-white hover:border-opacity-30 hover:shadow-lg sm:px-6"
 					>
 						<svg
 							class="w-[20px] h-[20px] sm:w-[24px] sm:h-[24px]"
@@ -63,7 +63,7 @@
 			{#if previewURL}
 				<a href={previewURL} rel="noopener noreferrer" target="_blank" aria-label="preview">
 					<button
-						class="btn btn-active btn-ghost flex flex-row no-animation hover:border-white hover:border-opacity-40 sm:px-6"
+						class="btn btn-active btn-ghost flex flex-row no-animation hover:border-white hover:border-opacity-30 hover:shadow-lg sm:px-6"
 					>
 						<svg
 							class="w-[20px] h-[20px] sm:w-[24px] sm:h-[24px]"
