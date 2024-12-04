@@ -30,7 +30,8 @@
 		"networking": "Réseau"
 	},
 	"projectsSection": {
-		"title": "Projets",
+        "title": "Projets et contributions",
+        "description": "Voici des projets sur lesquels j'ai travaillé, ainsi que quelques petites contributions que j'ai apportées à des projets open source.",
 		"card": {
 			"description": "Description",
 			"keyFeatures": "Fonctionnalités clés",
