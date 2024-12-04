@@ -11,6 +11,9 @@
 	<h6 class="uppercase text-xl tracking-wide font-bold text-gray-300/90">
 		{$_('projectsSection.title')}
 	</h6>
+    <p class="-mt-2 opacity-90">
+		{$_('projectsSection.description')}
+	</p>
 	<ProjectCard
 		projectTitle={$_('projectsSection.project1.projectTitle')}
 		description={$_('projectsSection.project1.description')}
