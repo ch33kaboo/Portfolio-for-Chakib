@@ -17,8 +17,8 @@
 	description={$_('projectsSection.projectsContent.project2.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project2.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project2.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/boite-informatique/startup-front"
+	previewURL="https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium"
 />
 
 <ProjectCard
@@ -26,8 +26,8 @@
 	description={$_('projectsSection.projectsContent.project3.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project3.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project3.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL=""
+	previewURL="https://www.alphabit.club"
 />
 
 <ProjectCard
@@ -35,8 +35,8 @@
 	description={$_('projectsSection.projectsContent.project4.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project4.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project4.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/andrewmcgivery/obsidian-soundscapes/pull/36"
+	previewURL=""
 />
 
 <ProjectCard
@@ -44,8 +44,8 @@
 	description={$_('projectsSection.projectsContent.project5.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project5.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project5.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/sodea"
+	previewURL=""
 />
 
 <ProjectCard
@@ -53,8 +53,8 @@
 	description={$_('projectsSection.projectsContent.project6.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project6.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project6.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/AlphaBit-coding-challenge-4.0-challenges"
+	previewURL=""
 />
 
 <ProjectCard
@@ -62,8 +62,8 @@
 	description={$_('projectsSection.projectsContent.project7.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project7.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project7.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ricin9/esi-hub"
+	previewURL=""
 />
 
 <ProjectCard
@@ -71,8 +71,8 @@
 	description={$_('projectsSection.projectsContent.project8.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project8.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/jv"
+	previewURL=""
 />
 
 <ProjectCard
@@ -80,8 +80,8 @@
 	description={$_('projectsSection.projectsContent.project9.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project9.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project9.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/svelteKit-starter"
+	previewURL=""
 />
 
 <ProjectCard
@@ -89,8 +89,8 @@
 	description={$_('projectsSection.projectsContent.project10.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project10.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project10.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/Chronos"
+	previewURL="https://youtu.be/KnjyJFwtyvY?si=G3U8SZ4dbK0K5TEj"
 />
 
 <ProjectCard
@@ -98,8 +98,8 @@
 	description={$_('projectsSection.projectsContent.project11.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project11.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project11.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/TravelTip"
+	previewURL="https://traveltip.netlify.app/public/index.html"
 />
 
 <ProjectCard
@@ -107,8 +107,8 @@
 	description={$_('projectsSection.projectsContent.project12.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project12.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project12.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/no-push-main"
+	previewURL=""
 />
 
 <ProjectCard
@@ -116,8 +116,8 @@
 	description={$_('projectsSection.projectsContent.project13.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project13.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project13.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/cool-chat-box"
+	previewURL="https://cool-chat-box.netlify.app"
 />
 
 <ProjectCard
@@ -125,8 +125,8 @@
 	description={$_('projectsSection.projectsContent.project14.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project14.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project14.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/ch33kaboo/svelte-todo-app"
+	previewURL="https://todo-svelte-app.netlify.app"
 />
 
 <ProjectCard
@@ -134,6 +134,6 @@
 	description={$_('projectsSection.projectsContent.project15.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project15.keyFeatures')}
 	techStack={$_('projectsSection.projectsContent.project15.techStack')}
-	codeURL="https://example.com"
-	previewURL="https://example.com"
+	codeURL="https://github.com/boite-informatique/Car-Robot"
+	previewURL="https://github.com/boite-informatique/Car-Robot-docs/blob/main/présentation.pdf"
 />
