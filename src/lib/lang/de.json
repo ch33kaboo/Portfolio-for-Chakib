@@ -30,19 +30,21 @@
 		"networking": "Netzwerke"
 	},
 	"projectsSection": {
-        "title": "Projekte und Beiträge",
-        "description": "Hier sind Projekte, an denen ich gearbeitet habe, sowie einige kleine Beiträge, die ich zu Open-Source-Projekten geleistet habe.",
+		"title": "Projekte und Beiträge",
+		"description": "Hier sind Projekte, an denen ich gearbeitet habe, sowie einige kleine Beiträge, die ich zu Open-Source-Projekten geleistet habe.",
 		"card": {
 			"description": "Beschreibung",
 			"keyFeatures": "Hauptmerkmale",
 			"sourceCode": "Quellcode",
 			"liveDemo": "Live-Demo"
 		},
-		"project1": {
-			"projectTitle": "de projectTitle",
-			"description": "de description",
-			"keyFeatures": "de keyFeatures",
-			"techStack": "de techStack"
+		"projectsContent": {
+			"project1": {
+				"projectTitle": "de projectTitle",
+				"description": "de description",
+				"keyFeatures": "de keyFeatures",
+				"techStack": "de techStack"
+			}
 		}
 	},
 	"contactSection": {

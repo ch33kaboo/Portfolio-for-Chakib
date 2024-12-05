@@ -30,19 +30,21 @@
 		"networking": "Networking"
 	},
 	"projectsSection": {
-        "title": "Projects and Contributions",
-        "description": "Here are projects that I worked on, also some small contributions that I made to open-source projects.",
+		"title": "Projects and Contributions",
+		"description": "Here are projects that I worked on, also some small contributions that I made to open-source projects.",
 		"card": {
 			"description": "Description",
 			"keyFeatures": "Key Features",
 			"sourceCode": "Source Code",
 			"liveDemo": "Live Demo"
 		},
-		"project1": {
-			"projectTitle": "en projectTitle",
-			"description": "en description",
-			"keyFeatures": "en keyFeatures",
-			"techStack": "en techStack"
+		"projectsContent": {
+			"project1": {
+				"projectTitle": "en projectTitle",
+				"description": "en description",
+				"keyFeatures": "en keyFeatures",
+				"techStack": "en techStack"
+			}
 		}
 	},
 	"contactSection": {
