@@ -131,6 +131,10 @@
 			}
 		}
 	},
+	"blogSection": {
+		"title": "Blog",
+		"description": "Ich bin ein großer Fan von Obsidian und schreibe regelmäßig über verschiedene Themen in meinem Obsidian-Tresor. Einige Artikel sind technologiebezogen, andere nicht.<br>Nach dem Hochladen werden sie auf <a target='_blank' class='link' href='https://blog.chakib.tech'>blog.chakib.tech</a> verfügbar sein."
+	},
 	"contactSection": {
 		"title": "Kontakt aufnehmen",
 		"description": "Ich bin immer offen für neue Projekte, kreative Ideen oder die Möglichkeit, Teil Ihrer Visionen zu sein. Zögern Sie nicht, mich zu kontaktieren!"
