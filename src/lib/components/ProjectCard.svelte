@@ -12,7 +12,7 @@
 <div
 	class="bg-gray-50 bg-opacity-5 w-full flex flex-col gap-4 p-3 rounded-md sm:p-5 sm:rounded-lg border-white border-[1px] border-opacity-10 shadow-md hover:shadow-lg hover:border-opacity-20 transition-all"
 >
-	<h6 class="font-semibold text-lg">{projectTitle}</h6>
+	<h6 class="font-semibold text-xl">{projectTitle}</h6>
 	<div class="flex flex-col justify-start items-start gap-2">
 		<p>
 			<span class="font-semibold">{$_('projectsSection.card.description')}:</span>
