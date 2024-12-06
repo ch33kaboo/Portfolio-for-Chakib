@@ -4,7 +4,7 @@
 
 <section
 	id="blog"
-	class="flex flex-col justify-center gap-5 pt-28 pb-0 sm:pt-20 sm:pb-7 items-start mx-8 sm:mx-64"
+	class="flex flex-col justify-center gap-5 pt-28 pb-0 sm:pt-24 sm:pb-7 items-start mx-8 sm:mx-64"
 	style="font-family: Arial, Helvetica, sans-serif;"
 >
 	<h6 class="uppercase text-xl tracking-wide font-bold text-gray-300/90">
