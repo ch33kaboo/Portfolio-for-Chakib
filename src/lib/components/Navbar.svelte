@@ -1,11 +1,21 @@
-<!-- this is navbar, it will have About, skills, projects, blog, contact (all take to same page) and
-change language (just like miloudidotdev) for the look, I like how aaronfrancisdotcom looks and
-janasundardotdev -->
-
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import { _ } from 'svelte-i18n';
-
 	import { locale } from 'svelte-i18n';
+
+	let navbarReachedTop = false;
+
+	function handleScroll() {
+		navbarReachedTop = window.scrollY > 68;
+	}
+
+	onMount(() => {
+		window.addEventListener('scroll', handleScroll);
+		return () => {
+			window.removeEventListener('scroll', handleScroll);
+		};
+	});
+
 	function handleLocaleChange(selectedLanguage: 'en' | 'fr' | 'de' = 'en') {
 		$locale = selectedLanguage;
 		localStorage.setItem('locale', selectedLanguage);
@@ -14,6 +24,10 @@ janasundardotdev -->
 
 <nav
 	class="sm:my-[68px] navbar bg-base-100 sticky top-0 flex flex-row justify-center bg-opacity-90 backdrop-blur-3xl"
+	class:shadow-md={navbarReachedTop}
+	class:border-opacity-5={navbarReachedTop}
+	class:border-b={navbarReachedTop}
+	class:border-white={navbarReachedTop}
 >
 	<ul class="menu menu-horizontal flex flex-row justify-center gap-0 sm:gap-4">
 		<li><a class="capitalize text-base" href="#about">{$_('navbar.about')}</a></li>
