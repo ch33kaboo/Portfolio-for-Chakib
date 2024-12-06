@@ -16,18 +16,18 @@
 	<div class="flex flex-col justify-start items-start gap-2">
 		<p>
 			<span class="font-semibold">{$_('projectsSection.card.description')}:</span>
-			{description}
+			{@html description}
 		</p>
 		{#if keyFeatures}
 			<p>
 				<span class="font-semibold">{$_('projectsSection.card.keyFeatures')}:</span>
-				{keyFeatures}
+				{@html keyFeatures}
 			</p>
 		{/if}
 		{#if techStack}
 			<p>
 				<span class="font-semibold">Tech Stack:</span>
-				{techStack}
+				{@html techStack}
 			</p>
 		{/if}
 	</div>

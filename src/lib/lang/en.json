@@ -40,9 +40,9 @@
 		},
 		"projectsContent": {
 			"project1": {
-				"projectTitle": "Alphabit Club community website",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"projectTitle": "Alphabit Club Community Website",
+				"description": "I developed a website for the AlphaBit Club community, where visitors can explore the club's recent events, partners, blog, podcasts, and other additional information.",
+				"keyFeatures": "The website's content is dynamic, as it is written in Markdown format in <a href='https://github.com/ch33kaboo/alphabit-CMS-test' class='link'>this GitHub repository<a/>. Whenever a visitor enters a page, the website fetches the corresponding content from the repository, parses the Markdown files to HTML, and renders them for the client. Additionally, the website is responsive and supports dark mode."
 			},
 			"project2": {
 				"projectTitle": "en projectTitle",
