@@ -16,7 +16,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project2.projectTitle')}
 	description={$_('projectsSection.projectsContent.project2.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project2.keyFeatures')}
-	techStack="Svelte with typescript typing, Tailwind CSS, DaisyUI, svelte-i18n"
+	techStack="Svelte with typescript typing, Tailwind CSS, DaisyUI, svelte-i18n."
 	codeURL="https://github.com/boite-informatique/startup-front"
 	previewURL=""
 />
