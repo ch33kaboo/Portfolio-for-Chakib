@@ -24,7 +24,6 @@
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project3.projectTitle')}
 	description={$_('projectsSection.projectsContent.project3.description')}
-	keyFeatures={$_('projectsSection.projectsContent.project3.keyFeatures')}
 	techStack="React, Tailwind CSS, Headless UI, Firebase, Axios."
 	codeURL=""
 	previewURL="https://www.alphabit.club"
@@ -33,7 +32,6 @@
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project4.projectTitle')}
 	description={$_('projectsSection.projectsContent.project4.description')}
-	keyFeatures={$_('projectsSection.projectsContent.project4.keyFeatures')}
 	techStack="Vanilla JS."
 	codeURL="https://github.com/andrewmcgivery/obsidian-soundscapes/pull/36"
 	previewURL=""

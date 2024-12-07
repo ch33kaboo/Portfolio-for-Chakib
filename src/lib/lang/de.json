@@ -50,14 +50,14 @@
 				"keyFeatures": "Ermöglichen Sie Studierenden, Projektvorschläge einzureichen. Geben Sie dem wissenschaftlichen Ausschuss der Universität die Möglichkeit, Vorschläge zu prüfen und anzunehmen oder abzulehnen. Stellen Sie Projektbetreuern Werkzeuge zur Verfügung, um Aufgaben den Projektmitgliedern zuzuweisen und nachzuverfolgen. Statten Sie den Praktikumsdienst mit der Fähigkeit aus, Projektverteidigungen zu organisieren und zu planen. Ermöglichen Sie dem Praktikumsdienst, den Vorsitzenden, die Mitglieder und die Gäste der Verteidigung zu benennen, neben weiteren Funktionen. Weitere Details finden Sie <a class='link' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>hier</a>."
 			},
 			"project3": {
-				"projectTitle": "de projectTitle",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"projectTitle": "AlphaBit Website",
+				"description": "Gemeinsam mit dem Alphabit-Entwicklungsteam habe ich die offizielle Website des Alphabit-Clubs entwickelt. Das Hauptziel der Website war es, die Veranstaltungen des Clubs zu präsentieren, um neue Sponsoren zu gewinnen und die Aktivitäten des Clubs zu finanzieren. Aus Gründen der Vertraulichkeit und Sicherheit kann der Quellcode nicht öffentlich zugänglich gemacht werden.",
+				"keyFeatures": ""
 			},
 			"project4": {
-				"projectTitle": "de projectTitle",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"projectTitle": "Obsidian Soundscapes",
+				"description": "Ich habe zu einem open source Projekt namens obsidian-soundscapes beigetragen, einem Obsidian-Plugin, das es dem Benutzer ermöglicht, Musik zu spielen, während er in Obsidian arbeitet. Die Funktion, die ich implementiert habe, fügt dem Musikplayer Wiedergabebefehle hinzu, mit denen die Musik abgespielt oder pausiert und zum nächsten oder vorherigen Titel mit Obsidian-Befehlen gewechselt werden kann.",
+				"keyFeatures": ""
 			},
 			"project5": {
 				"projectTitle": "de projectTitle",

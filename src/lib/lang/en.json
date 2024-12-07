@@ -50,14 +50,14 @@
 				"keyFeatures": "Allow students to submit project proposals. Enable the university’s scientific committee to review and accept or reject proposals. Provide project supervisors with tools to assign and track tasks for project members. Equip the internship service with the ability to organize and schedule project defenses. Allow the internship service to assign the jury president, members, and invitees for project defenses, among other features. Further details can be found <a class='link' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>."
 			},
 			"project3": {
-				"projectTitle": "en projectTitle",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"projectTitle": "AlphaBit Website",
+				"description": "I, along with the Alphabit dev team, developed the official website for the Alphabit Club. The primary goal of the website was to showcase the club's events to attract new sponsors and secure funding for its activities. For confidentiality and security reasons, the source code cannot be disclosed publicly.",
+				"keyFeatures": ""
 			},
 			"project4": {
-				"projectTitle": "en projectTitle",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"projectTitle": "Obsidian Soundscapes",
+				"description": "I contributed to an open source project named obsidian-soundscapes, which is an Obsidian plugin that allows users to play music while using Obsidian. The feature I implemented adds playback commands to the music player, enabling users to play or pause the music and navigate to the next or previous track using Obsidian commands.",
+				"keyFeatures": ""
 			},
 			"project5": {
 				"projectTitle": "en projectTitle",

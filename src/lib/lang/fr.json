@@ -50,14 +50,14 @@
 				"keyFeatures": "Permettre aux étudiants de soumettre des propositions de projet. Offrir à la commission scientifique de l'université la possibilité d'examiner, d'accepter ou de rejeter les propositions. Fournir aux superviseurs de projet des outils pour assigner et suivre les tâches des membres du projet. Donner au service des stages la possibilité d'organiser et de planifier les soutenances de projet. Permettre au service des stages d'assigner le président du jury, les membres et les invités pour les soutenances, entre autres fonctionnalités. Plus de détails sont disponibles <a class='link' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>ici</a>."
 			},
 			"project3": {
-				"projectTitle": "fr projectTitle",
-				"description": "fr description",
-				"keyFeatures": "fr keyFeatures"
+				"projectTitle": "AlphaBit Website",
+				"description": "Avec l'équipe de développement d'Alphabit, j'ai développé le site officiel du club Alphabit. L'objectif principal du site était de mettre en valeur les événements du club afin d'attirer de nouveaux sponsors et de financer ses activités. Pour des raisons de confidentialité et de sécurité, le code source ne peut pas être divulgué publiquement.",
+				"keyFeatures": ""
 			},
 			"project4": {
-				"projectTitle": "fr projectTitle",
-				"description": "fr description",
-				"keyFeatures": "fr keyFeatures"
+				"projectTitle": "Obsidian Soundscapes",
+				"description": "J'ai contribué à un projet open source nommé obsidian-soundscapes, un plugin Obsidian qui permet à l'utilisateur de jouer de la musique tout en étant dans Obsidian. La fonctionnalité que j'ai implémentée ajoute des commandes de lecture au lecteur de musique, permettant de jouer ou de mettre en pause la musique, ainsi que de passer à la piste suivante ou précédente en utilisant des commandes Obsidian.",
+				"keyFeatures": ""
 			},
 			"project5": {
 				"projectTitle": "fr projectTitle",
