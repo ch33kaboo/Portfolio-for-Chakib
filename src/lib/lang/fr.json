@@ -81,8 +81,8 @@
 			},
 			"project9": {
 				"projectTitle": "SvelteKit Starter",
-				"description": "fr description",
-				"keyFeatures": "fr keyFeatures"
+				"description": "Un SvelteKit Starter personnalisable conçu pour le développement web moderne, incluant SvelteKit + Svelte avec TypeScript, Tailwind CSS, daisyUI, Vite, svelte-i18n. Comprend ESLint préconfiguré, Prettier, fonctionnalité de mode sombre, palettes de couleurs personnalisées et configuration de l'IDE pour une initialisation facile du projet. Idéal pour les développeurs recherchant un environnement prêt à l'emploi. De plus, j'ai créé un Svelte TypeScript starter simple, que vous pouvez trouver <a class='link' href='https://github.com/ch33kaboo/svelte-ts-starter' target='_blank'>ici</a>.",
+				"keyFeatures": ""
 			},
 			"project10": {
 				"projectTitle": "Chronos",
