@@ -71,8 +71,8 @@
 			},
 			"project7": {
 				"projectTitle": "ESI Hub",
-				"description": "fr description",
-				"keyFeatures": "fr keyFeatures"
+				"description": "Une application web conçue comme une plateforme de réseau social pour les étudiants de l'université “ESI SBA”. Ce projet a été réalisé dans le cadre de ma 2ᵉ année multidisciplinaire en informatique, développé par moi et trois de mes amis, où j’ai contribué au développement du backend. La plateforme visait à résoudre le problème des étudiants submergés par les emails, notamment lorsqu’un étudiant perdait un objet et envoyait un email intitulé “objet perdu” à tous les étudiants. Pour y remédier, la plateforme disposait d’une section dédiée permettant aux utilisateurs de publier des annonces pour leurs objets perdus ou de consulter ceux signalés.",
+				"keyFeatures": "Seuls les étudiants et le personnel de l'université pouvaient créer un compte, Les utilisateurs pouvaient se connecter à la plateforme, Gestion des rôles des utilisateurs (Role-based access control), Fonction de chat pour la communication entre les utilisateurs, Les utilisateurs pouvaient ajouter des objets perdus ou retrouver les objets qu’ils avaient perdus..."
 			},
 			"project8": {
 				"projectTitle": "Site Web de Jeunesse Volontaire",

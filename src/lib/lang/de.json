@@ -71,8 +71,8 @@
 			},
 			"project7": {
 				"projectTitle": "ESI Hub",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"description": "Eine Webanwendung, die als Social-Network-Plattform für die Studierenden der Universität “ESI SBA” konzipiert wurde. Dieses Projekt wurde im Rahmen meines multidisziplinären Informatikstudiums im zweiten Jahr entwickelt, gemeinsam mit drei Freunden, wobei ich zum Backend-Entwicklung beitrug. Die Plattform zielte darauf ab, das Problem der überflutenden E-Mails der Studierenden zu lösen, insbesondere wenn jemand einen Gegenstand verlor und eine “lost object”-E-Mail an alle Studierenden sendete. Um dies zu bewältigen, bot die Plattform einen speziellen Bereich, in dem Nutzer Beiträge zu verlorenen Gegenständen verfassen oder gemeldete Objekte durchsuchen konnten.",
+				"keyFeatures": "Nur Studierende und Mitarbeitende der Universität konnten ein Konto erstellen, Nutzer konnten sich auf der Plattform anmelden, Verwaltung von Nutzerrollen (Role-based access control), Eine Chat-Funktion für die Kommunikation zwischen den Nutzern, Nutzer konnten verlorene Gegenstände hinzufügen oder verlorene Gegenstände finden..."
 			},
 			"project8": {
 				"projectTitle": "Jeunesse Volontaire Website",

@@ -71,8 +71,8 @@
 			},
 			"project7": {
 				"projectTitle": "ESI Hub",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"description": "A web application designed as a social network platform for students of “ESI SBA” university. This was my 2nd-year multidisciplinary Computer Science university project, developed by me and three of my friends, where I contributed to the backend development. The platform aimed to address the issue of students being overwhelmed by emails, especially when someone lost an item and sent a “lost object” email to all students. To tackle this, the platform featured a dedicated section where users could post about their lost items or browse reported ones.",
+				"keyFeatures": "Only students and staff from the university could create an account, Users could log in to the platform, Role-based access control (RBAC) for managing user roles, A chat feature for communication between users, Users could add lost objects or find objects they had lost..."
 			},
 			"project8": {
 				"projectTitle": "Jeunesse Volontaire Website",
