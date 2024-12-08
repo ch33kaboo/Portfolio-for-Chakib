@@ -60,12 +60,12 @@
 				"keyFeatures": ""
 			},
 			"project5": {
-				"projectTitle": "de projectTitle",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"projectTitle": "Sodea Website",
+				"description": "Während meines Praktikums im Sommer 2023 habe ich an der Entwicklung der Website für Sodea, ein Unternehmen von <a href='https://www.groupe-hasnaoui.com' class='link'>GSH “Groupe des Sociétés HASNAOUI”<a/>, gearbeitet. Aufgrund von Zeitbeschränkungen, da mein Praktikum endete, bevor ich die Website fertigstellen konnte, habe ich das Projekt, einschließlich des Codes und aller zugehörigen Materialien, an einen Entwickler im Unternehmen übergeben. Dieser baute auf meiner Arbeit auf und setzte die Entwicklung der Website fort.",
+				"keyFeatures": "Dynamische Inhaltsintegration mit Sanity CMS, Echtzeit-Updates über die Sanity-API, intuitive Administrationsoberfläche zur Produktverwaltung, responsives Design, einfach erweiterbar mit zusätzlichen Funktionen."
 			},
 			"project6": {
-				"projectTitle": "de projectTitle",
+				"projectTitle": "Erstellung von Hackathon-Herausforderungen",
 				"description": "de description",
 				"keyFeatures": "de keyFeatures"
 			},

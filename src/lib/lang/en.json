@@ -60,12 +60,12 @@
 				"keyFeatures": ""
 			},
 			"project5": {
-				"projectTitle": "en projectTitle",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"projectTitle": "Sodea Website",
+				"description": "During my internship in the summer of 2023, I worked on building the website for Sodea, a company owned by <a href='https://www.groupe-hasnaoui.com' class='link'>GSH “Groupe des Sociétés HASNAOUI”<a/>. Due to time constraints, as my internship period ended while I was still working on the website, I handed over the project, including the code and all related materials, to a developer within the company. They built upon my work and continued the website's development.",
+				"keyFeatures": "Dynamic content integration with Sanity CMS, real-time updates via Sanity API, intuitive admin interface for managing products, responsive design, easy to extend with additional features."
 			},
 			"project6": {
-				"projectTitle": "en projectTitle",
+				"projectTitle": "Authoring Hackathon Challenges",
 				"description": "en description",
 				"keyFeatures": "en keyFeatures"
 			},

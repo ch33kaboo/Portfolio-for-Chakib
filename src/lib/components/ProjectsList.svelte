@@ -41,7 +41,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project5.projectTitle')}
 	description={$_('projectsSection.projectsContent.project5.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project5.keyFeatures')}
-	techStack="Next.js, React, Sanity, TypeScript, Tailwind CSS, DaisyUI, ESLint."
+	techStack="Next.js, React, Sanity, GROQ Query Language, TypeScript, Tailwind CSS, DaisyUI, ESLint."
 	codeURL="https://github.com/ch33kaboo/sodea"
 	previewURL=""
 />

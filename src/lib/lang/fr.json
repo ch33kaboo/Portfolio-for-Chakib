@@ -15,7 +15,7 @@
 	},
 	"aboutSection": {
 		"title": "À propos de moi",
-		"intro": "Bonjour, je suis Chakib Ouzane (alias <span class='italic font-sans'>ch33kaboo</span>), un étudiant algérien de 22 ans en dernière année d'informatique. En tant que développeur web full-stack, je suis passionné par la création de systèmes backend efficaces et évolutifs, ainsi que par des expériences frontend intuitives et réactives (en: responsive) pour créer des solutions full-stack sans faille.",
+		"intro": "Bonjour, je suis Chakib Ouzane (alias <span class='italic font-sans'>ch33kaboo</span>), un étudiant algérien de 22 ans en dernière année d'informatique. En tant que développeur web full-stack, je suis passionné par la création de systèmes backend efficaces et évolutifs, ainsi que par des expériences frontend intuitives et responsive pour créer des solutions full-stack sans faille.",
 		"portfolio": "Mon portfolio présente une gamme de projets qui reflètent mes compétences et mon enthousiasme pour le développement.",
 		"goals": "Je continue d'explorer de nouvelles technologies et de travailler sur des projets qui me poussent à évoluer. Mon objectif est de contribuer à des projets innovants qui repoussent les limites du développement web.",
 		"additionalInterests": "En plus du développement web, je m'intéresse également aux réseaux et à l'IoT, et j'ai eu l'occasion de tester ces technologies dans des laboratoires universitaires.",
@@ -60,12 +60,12 @@
 				"keyFeatures": ""
 			},
 			"project5": {
-				"projectTitle": "fr projectTitle",
-				"description": "fr description",
-				"keyFeatures": "fr keyFeatures"
+				"projectTitle": "Site Web de Sodea",
+				"description": "Pendant mon stage à l'été 2023, j'ai travaillé sur la création du site web de Sodea, une entreprise appartenant à <a href='https://www.groupe-hasnaoui.com' class='link'>GSH “Groupe des Sociétés HASNAOUI”<a/>. En raison de contraintes de temps, mon stage ayant pris fin alors que le site web était encore en cours de développement, j'ai transmis le projet, y compris le code et tous les éléments associés, à un développeur de l'entreprise. Celui-ci a poursuivi le développement du site à partir de mon travail.",
+				"keyFeatures": "Intégration de contenu dynamique avec Sanity CMS, mises à jour en temps réel via l'API Sanity, interface d'administration intuitive pour gérer les produits, design responsive, facile à étendre avec des fonctionnalités supplémentaires."
 			},
 			"project6": {
-				"projectTitle": "fr projectTitle",
+				"projectTitle": "Création de défis pour hackathons",
 				"description": "fr description",
 				"keyFeatures": "fr keyFeatures"
 			},
