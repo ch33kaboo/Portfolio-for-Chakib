@@ -50,6 +50,7 @@
 				<li>Git & GitHub</li>
 				<li>Docker</li>
 				<li>Vercel & Netlify</li>
+				<li>Linux & Scripting</li>
 			</ul>
 		</div>
 		<div class="flex flex-col gap-3 min-w-40">
