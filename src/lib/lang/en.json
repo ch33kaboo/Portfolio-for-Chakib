@@ -42,12 +42,12 @@
 			"project1": {
 				"projectTitle": "Alphabit Club Community Website",
 				"description": "I developed a website for the AlphaBit Club community, where visitors can explore the club's recent events, partners, blog, podcasts, and other additional information.",
-				"keyFeatures": "The website's content is dynamic, as it is written in Markdown format in <a href='https://github.com/ch33kaboo/alphabit-CMS-test' class='link'>this GitHub repository<a/>. Whenever a visitor enters a page, the website fetches the corresponding content from the repository, parses the Markdown files to HTML, and renders them for the client. Additionally, the website is responsive and supports dark mode."
+				"keyFeatures": "The website's content is dynamic, as it is written in Markdown format in <a href='https://github.com/ch33kaboo/alphabit-CMS-test' target='_blank' class='link'>this GitHub repository<a/>. Whenever a visitor enters a page, the website fetches the corresponding content from the repository, parses the Markdown files to HTML, and renders them for the client. Additionally, the website is responsive and supports dark mode."
 			},
 			"project2": {
 				"projectTitle": "Innovium",
-				"description": "A web application designed to digitalize the entire process of applying for a startup or a patent for an end-of-study project. This was my 3rd-year CS multidisciplinary university project. Innovium was a group project involving me and three of my friends. Further information about the project can be found <a class='link' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>.",
-				"keyFeatures": "Allow students to submit project proposals. Enable the university’s scientific committee to review and accept or reject proposals. Provide project supervisors with tools to assign and track tasks for project members. Equip the internship service with the ability to organize and schedule project defenses. Allow the internship service to assign the jury president, members, and invitees for project defenses, among other features. Further details can be found <a class='link' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>."
+				"description": "A web application designed to digitalize the entire process of applying for a startup or a patent for an end-of-study project. This was my 3rd-year CS multidisciplinary university project. Innovium was a group project involving me and three of my friends. Further information about the project can be found <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>.",
+				"keyFeatures": "Allow students to submit project proposals. Enable the university’s scientific committee to review and accept or reject proposals. Provide project supervisors with tools to assign and track tasks for project members. Equip the internship service with the ability to organize and schedule project defenses. Allow the internship service to assign the jury president, members, and invitees for project defenses, among other features. Further details can be found <a class='link' target='_blank' href='https://web.archive.org/web/20241201103659/https://miloudi.dev/innovium'>here</a>."
 			},
 			"project3": {
 				"projectTitle": "AlphaBit Website",
@@ -61,7 +61,7 @@
 			},
 			"project5": {
 				"projectTitle": "Sodea Website",
-				"description": "During my internship in the summer of 2023, I worked on building the website for Sodea, a company owned by <a href='https://www.groupe-hasnaoui.com' class='link'>GSH “Groupe des Sociétés HASNAOUI”<a/>. Due to time constraints, as my internship period ended while I was still working on the website, I handed over the project, including the code and all related materials, to a developer within the company. They built upon my work and continued the website's development.",
+				"description": "During my internship in the summer of 2023, I worked on building the website for Sodea, a company owned by <a href='https://www.groupe-hasnaoui.com' target='_blank' class='link'>GSH “Groupe des Sociétés HASNAOUI”<a/>. Due to time constraints, as my internship period ended while I was still working on the website, I handed over the project, including the code and all related materials, to a developer within the company. They built upon my work and continued the website's development.",
 				"keyFeatures": "Dynamic content integration with Sanity CMS, real-time updates via Sanity API, intuitive admin interface for managing products, responsive design, easy to extend with additional features."
 			},
 			"project6": {
