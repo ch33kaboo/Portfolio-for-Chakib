@@ -68,7 +68,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project8.projectTitle')}
 	description={$_('projectsSection.projectsContent.project8.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
-	techStack="SvelteKit, Svelte, TypeScript, Tailwind CSS, DaisyUI, Sanity, Zod, SvelteKit Superforms for server and client form validation, ESLint."
+	techStack="SvelteKit, Svelte, TypeScript, Tailwind CSS, DaisyUI, Sanity, GROQ Query Language, Zod, SvelteKit Superforms for server and client form validation, ESLint."
 	codeURL="https://github.com/ch33kaboo/jv"
 	previewURL=""
 />

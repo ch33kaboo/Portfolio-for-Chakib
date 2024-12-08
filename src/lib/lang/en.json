@@ -76,8 +76,8 @@
 			},
 			"project8": {
 				"projectTitle": "Jeunesse Volontaire Website",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"description": "I developed a website for a local environmental organization named “Jeunesse Volontaire”, using Svelte for the frontend and Sanity CMS for dynamic content management.",
+				"keyFeatures": "Dynamic content integration with Sanity CMS, real-time updates via Sanity API, intuitive admin interface for managing content, responsive design, Zod and SvelteKit Superforms for server and client-side form validation, easy to extend with additional features."
 			},
 			"project9": {
 				"projectTitle": "SvelteKit Starter",
