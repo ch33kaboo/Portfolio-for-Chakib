@@ -118,7 +118,7 @@
 	},
 	"blogSection": {
 		"title": "Blog",
-		"description": "Je suis un grand fan d'Obsidian et j'écris fréquemment sur divers sujets dans mon espace Obsidian. Certains articles sont liés à la technologie, d'autres non.<br>Une fois publiés, ils seront disponibles sur <a target='_blank' class='link' href='https://blog.chakib.tech'>blog.chakib.tech</a>."
+		"description": "Je suis un grand fan d'<a href='https://obsidian.md/' class='link' target='_blank'>Obsidian<a/> et j'écris fréquemment sur divers sujets dans ma vault Obsidian. Certains articles sont liés à la technologie, d'autres non.<br>Une fois publiés, ils seront disponibles sur <a target='_blank' class='link' href='https://blog.chakib.tech'>blog.chakib.tech</a>."
 	},
 	"contactSection": {
 		"title": "Me Contacter",
