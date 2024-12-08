@@ -76,7 +76,6 @@
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project9.projectTitle')}
 	description={$_('projectsSection.projectsContent.project9.description')}
-	keyFeatures={$_('projectsSection.projectsContent.project9.keyFeatures')}
 	techStack="SvelteKit, Svelte, TypeScript, Tailwind CSS, DaisyUI, ESLint."
 	codeURL="https://github.com/ch33kaboo/svelteKit-starter"
 	previewURL=""
@@ -103,7 +102,6 @@
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project12.projectTitle')}
 	description={$_('projectsSection.projectsContent.project12.description')}
-	keyFeatures={$_('projectsSection.projectsContent.project12.keyFeatures')}
 	techStack="Bash script (Shell Script)."
 	codeURL="https://github.com/ch33kaboo/no-push-main"
 	previewURL=""
@@ -112,7 +110,6 @@
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project13.projectTitle')}
 	description={$_('projectsSection.projectsContent.project13.description')}
-	keyFeatures={$_('projectsSection.projectsContent.project13.keyFeatures')}
 	techStack="Svelte, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/ch33kaboo/cool-chat-box"
 	previewURL="https://cool-chat-box.netlify.app"
