@@ -101,8 +101,8 @@
 			},
 			"project13": {
 				"projectTitle": "Cool Chat Box",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"description": "Dies ist eine einfache Chatbox-Anwendung, die ich zu Lernzwecken erstellt habe (als ich Svelte lernte). Sie wurde entwickelt, um mit Svelte zu experimentieren, mit einem Fokus auf Zustandsverwaltung mit Stores, der Datenweitergabe zwischen Komponenten und der Erkundung von Svelte-Funktionen. Die Anwendung ermöglicht es zwei Nutzern, Nachrichten in einer Chatbox auszutauschen. Jeder Nutzer hat ein Eingabefeld, um Nachrichten zu schreiben, die in der Chatbox angezeigt werden. Nutzer können ihre Nachrichten auch bearbeiten oder löschen. Obwohl das Projekt klein und nicht besonders interessant ist, war es für mich wertvoll, um mit Svelte vertraut zu werden.",
+				"keyFeatures": ""
 			},
 			"project14": {
 				"projectTitle": "To Do app",

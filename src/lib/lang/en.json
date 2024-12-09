@@ -101,8 +101,8 @@
 			},
 			"project13": {
 				"projectTitle": "Cool Chat Box",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"description": "This is a simple chatbox application I created for learning purposes (when I was learning Svelte). It was built to experiment with Svelte, focusing on state management using stores, passing data between components, and exploring Svelte’s features. The application allows two users to exchange messages in a chatbox. Each user has an input field to write messages, which are displayed in the chatbox. Users can also modify or delete their messages. While the project itself is small and not particularly interesting, it was valuable for me to get familiar with Svelte.",
+				"keyFeatures": ""
 			},
 			"project14": {
 				"projectTitle": "To Do app",
