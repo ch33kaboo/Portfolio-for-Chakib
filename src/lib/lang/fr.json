@@ -91,8 +91,8 @@
 			},
 			"project11": {
 				"projectTitle": "Travel Tip",
-				"description": "fr description",
-				"keyFeatures": "fr keyFeatures"
+				"description": "Ceci est une page d'atterrissage pour le site web “Travel Tip”, créée uniquement à des fins d'apprentissage. Le projet est très simple et pas particulièrement intéressant, mais il m'a permis d'expérimenter et d'apprendre Tailwind CSS. Je l'ai réalisé lorsque je commençais à me familiariser avec le fonctionnement de Tailwind CSS et à comprendre son approche utility-first. Le projet en lui-même n'offre pas beaucoup de fonctionnalités, mais il a été un bon point de départ pour expérimenter avec Tailwind et DaisyUI.",
+				"keyFeatures": "Modes sombre et clair, entièrement responsive."
 			},
 			"project12": {
 				"projectTitle": "No Push Main",

@@ -91,8 +91,8 @@
 			},
 			"project11": {
 				"projectTitle": "Travel Tip",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"description": "This is a landing page for the “Travel Tip” website, created purely for learning purposes. The project is very simple and not particularly interesting, but it served as a way for me to experiment and learn Tailwind CSS. I built this when I was getting familiar with how Tailwind CSS works and understanding its utility-first approach. The project itself doesn't offer much functionality but it was a good starting point for me to experiment with Tailwind and DaisyUI.",
+				"keyFeatures": "Dark and light modes, fully responsive."
 			},
 			"project12": {
 				"projectTitle": "No Push Main",

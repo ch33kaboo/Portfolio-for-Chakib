@@ -91,8 +91,8 @@
 			},
 			"project11": {
 				"projectTitle": "Travel Tip",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"description": "Dies ist eine Landing Page für die Website “Travel Tip”, die rein zu Lernzwecken erstellt wurde. Das Projekt ist sehr einfach und nicht besonders interessant, aber es diente mir als Möglichkeit, mit Tailwind CSS zu experimentieren und es zu lernen. Ich habe es gebaut, als ich mich mit der Funktionsweise von Tailwind CSS vertraut machte und seinen Utility-First-Ansatz verstand. Das Projekt selbst bietet nicht viele Funktionen, aber es war ein guter Ausgangspunkt für mich, um mit Tailwind und DaisyUI zu experimentieren.",
+				"keyFeatures": "Dunkel- und Hellmodus, vollständig responsiv."
 			},
 			"project12": {
 				"projectTitle": "No Push Main",
