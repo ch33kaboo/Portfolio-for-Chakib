@@ -86,8 +86,8 @@
 			},
 			"project10": {
 				"projectTitle": "Chronos",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"description": "Chronos was a project developed by me and other students during the DevFest Hackathon organized by <a class='link' href='https://www.instagram.com/gdg.sba/' target='_blank'>GDG SBA</a> on January 6, 2023. The mystery word for this year’s edition was “Time”. Our project, Chronos, is a learning platform about history and features a fun history quiz game named “Griffin”. The design was pre-existing, and my role was to code the interface. Our project earned third best place in the event.",
+				"keyFeatures": "Users can choose nicknames and start playing the quiz. The quiz is based on rooms, where you can create a room that allows many users to join and play together. The quiz lasts 30 seconds, and once time is up, your score is displayed. After other players finish the game, a scoreboard shows the rankings of the best players and their scores. Since this was a 24-hour challenge, many features were implemented in a rushed manner, and some edge cases were not handled properly."
 			},
 			"project11": {
 				"projectTitle": "Travel Tip",
