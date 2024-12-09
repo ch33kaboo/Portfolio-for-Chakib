@@ -96,8 +96,8 @@
 			},
 			"project12": {
 				"projectTitle": "No Push Main",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"description": "Ein einfaches Skript, das ich entworfen habe, um einen globalen (systemweiten, projektunabhängigen) Pre-Push-Hook zu implementieren, der Entwickler daran hindert, Änderungen direkt in den Hauptbranch eines Git-Repositories zu pushen. Das Skript stellt sicher, dass alle Änderungen auf einen separaten Branch gepusht werden, der vor der Zusammenführung in den Hauptbranch überprüft werden muss. Dieser Ansatz trägt dazu bei, die Integrität des Hauptbranchs zu bewahren und das Risiko von unbeabsichtigten Codeänderungen oder Konflikten zu verringern. Der Hook kann global für alle Git-Projekte eingerichtet werden, im Gegensatz zu Tools wie Husky, die für jedes Projekt separat konfiguriert werden müssen. Die README-Datei im GitHub-Repository enthält detaillierte Anweisungen, wie der Hook auf dem System installiert und entfernt werden kann.",
+				"keyFeatures": ""
 			},
 			"project13": {
 				"projectTitle": "Cool Chat Box",

@@ -96,8 +96,8 @@
 			},
 			"project12": {
 				"projectTitle": "No Push Main",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"description": "A simple script I designed to enforce a global (system-wide, project-agnostic) pre-push hook that prevents developers from pushing changes directly to the main branch of a Git repository. The script ensures that all changes are pushed to a separate branch, requiring a review before being merged into the main branch. This approach helps maintain the integrity of the main branch and reduces the risk of accidental code changes or conflicts. The hook can be set up globally for all Git projects, unlike tools like Husky, which require configuration for each individual project. The README on the GitHub repository provides detailed instructions on how to install and remove the hook from your system.",
+				"keyFeatures": ""
 			},
 			"project13": {
 				"projectTitle": "Cool Chat Box",
