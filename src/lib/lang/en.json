@@ -106,8 +106,8 @@
 			},
 			"project14": {
 				"projectTitle": "To Do app",
-				"description": "en description",
-				"keyFeatures": "en keyFeatures"
+				"description": "This is a simple To-Do application I created for learning purposes (when I was learning Svelte). It was built to explore Svelte’s features. While the project itself is simple and not particularly interesting, it was a valuable experience for me to understand the core concepts of Svelte.",
+				"keyFeatures": "Add task with description and time, delete task, responsive design, dark and light mode."
 			},
 			"project15": {
 				"projectTitle": "Robot Car",

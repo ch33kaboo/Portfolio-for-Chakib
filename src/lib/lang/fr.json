@@ -101,13 +101,13 @@
 			},
 			"project13": {
 				"projectTitle": "Cool Chat Box",
-				"description": "Ceci est une application de chatbox simple que j’ai créée à des fins d’apprentissage (lorsque j’apprenais Svelte). Elle a été développée pour expérimenter avec Svelte, en se concentrant sur la gestion d’état à l’aide de stores, le passage de données entre composants et l’exploration des fonctionnalités de Svelte. L’application permet à deux utilisateurs d’échanger des messages dans une chatbox. Chaque utilisateur dispose d’un champ de saisie pour écrire des messages, qui sont affichés dans la chatbox. Les utilisateurs peuvent également modifier ou supprimer leurs messages. Bien que ce projet soit petit et pas particulièrement intéressant, il m’a été précieux pour me familiariser avec Svelte.",
+				"description": "Ceci est une application de chatbox simple que j’ai créée à des fins d’apprentissage (lorsque j’apprenais Svelte). Elle a été développée pour expérimenter avec Svelte, en se concentrant sur le state management à l’aide de stores, le passage de données entre composants et l’exploration des fonctionnalités de Svelte. L’application permet à deux utilisateurs d’échanger des messages dans une chatbox. Chaque utilisateur dispose d’un champ de saisie pour écrire des messages, qui sont affichés dans la chatbox. Les utilisateurs peuvent également modifier ou supprimer leurs messages. Bien que ce projet soit petit et pas particulièrement intéressant, il m’a été précieux pour me familiariser avec Svelte.",
 				"keyFeatures": ""
 			},
 			"project14": {
 				"projectTitle": "To Do app",
-				"description": "fr description",
-				"keyFeatures": "fr keyFeatures"
+				"description": "C'est une application simple de gestion de tâches que j'ai créée à des fins d'apprentissage (lorsque j'apprenais Svelte). Elle a été construite pour explorer les fonctionnalités de Svelte. Bien que le projet soit simple et pas particulièrement intéressant, il a été une expérience précieuse pour comprendre les concepts de base de Svelte.",
+				"keyFeatures": "Ajouter une tâche avec description et heure, supprimer une tâche, design responsive, mode sombre et clair."
 			},
 			"project15": {
 				"projectTitle": "Voiture Robot",
