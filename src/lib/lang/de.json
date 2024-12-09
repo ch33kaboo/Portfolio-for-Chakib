@@ -111,8 +111,8 @@
 			},
 			"project15": {
 				"projectTitle": "Roboterauto",
-				"description": "de description",
-				"keyFeatures": "de keyFeatures"
+				"description": "Dies war ein webbasiertes ferngesteuertes Auto, das im Rahmen meines interdisziplinären Informatikprojekts im 4. Studienjahr zusammen mit drei meiner Freunde entwickelt wurde.",
+				"keyFeatures": "Fernsteuerung des Autos zum Vorwärts- und Rückwärtsfahren, Rechts- und Linksdrehen, Hinderniserkennung mit einem Ultraschallsensor (HC-SR04), 180°-Kameraansicht dank einer ferngesteuerten Servomotorsteuerung (nur die Kamera dreht sich, das Auto bleibt stehen), Blitzsteuerung für Sichtbarkeit bei Dunkelheit, Objekterkennung mit YOLO implementiert, ESP32 fungiert als Webserver, um die Webseite für den Fernzugriff bereitzustellen."
 			}
 		}
 	},
