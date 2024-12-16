@@ -27,7 +27,8 @@
 		"databases": "Datenbanken",
 		"toolsOther": "Werkzeuge & Sonstiges",
 		"itSystems": "IT-Systeme",
-		"networking": "Netzwerke"
+		"networking": "Netzwerke",
+		"arduino": "Mikrocontroller- und Arduino-Programmierung"
 	},
 	"projectsSection": {
 		"title": "Projekte und Beiträge",

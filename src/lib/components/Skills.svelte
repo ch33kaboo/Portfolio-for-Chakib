@@ -17,6 +17,7 @@
 				<li>JavaScript</li>
 				<li>TypeScript</li>
 				<li>python</li>
+				<li>C/C++</li>
 				<li>SQL</li>
 			</ul>
 		</div>
@@ -58,6 +59,7 @@
 			<ul class="list-disc list-inside">
 				<li>{$_('skillsSection.networking')}</li>
 				<li>IoT</li>
+				<li>{$_('skillsSection.arduino')}</li>
 			</ul>
 		</div>
 	</div>

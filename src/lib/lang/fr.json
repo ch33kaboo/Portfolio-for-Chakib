@@ -27,7 +27,8 @@
 		"databases": "Bases de données",
 		"toolsOther": "Outils & Autre",
 		"itSystems": "Systèmes informatiques",
-		"networking": "Réseau"
+		"networking": "Réseau",
+		"arduino": "Programmation de microcontrôleurs et Arduino"
 	},
 	"projectsSection": {
 		"title": "Projets et contributions",
