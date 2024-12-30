@@ -23,7 +23,7 @@
 </script>
 
 <nav
-	class="sm:my-[68px] navbar bg-base-100 sticky top-0 flex flex-row justify-center bg-opacity-90 backdrop-blur-3xl"
+	class="sm:my-[68px] navbar bg-base-100 sticky top-0 flex flex-row justify-center"
 	class:shadow-md={navbarReachedTop}
 	class:border-opacity-5={navbarReachedTop}
 	class:border-b={navbarReachedTop}
