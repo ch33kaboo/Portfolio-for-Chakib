@@ -4,6 +4,15 @@
 </script>
 
 <ProjectCard
+	projectTitle={$_('projectsSection.projectsContent.project8.projectTitle')}
+	description={$_('projectsSection.projectsContent.project8.description')}
+	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
+	techStack="SvelteKit, Svelte, Supabase, TypeScript, Tailwind CSS, DaisyUI, Sanity, GROQ Query Language, Zod, SvelteKit Superforms for server and client form validation, ESLint."
+	codeURL="https://github.com/ch33kaboo/jv"
+	previewURL="https://jeunessevolontairesba.dz"
+/>
+
+<ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project1.projectTitle')}
 	description={$_('projectsSection.projectsContent.project1.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project1.keyFeatures')}
@@ -61,15 +70,6 @@
 	keyFeatures={$_('projectsSection.projectsContent.project7.keyFeatures')}
 	techStack="Node.js, Express, MongoDB, Mongoose, JWT, Bcrypt, Multer for file upload, Socket.io, Nodemailer, Joi for schema validation."
 	codeURL="https://github.com/boite-informatique/esi-hub-backend"
-	previewURL=""
-/>
-
-<ProjectCard
-	projectTitle={$_('projectsSection.projectsContent.project8.projectTitle')}
-	description={$_('projectsSection.projectsContent.project8.description')}
-	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
-	techStack="SvelteKit, Svelte, TypeScript, Tailwind CSS, DaisyUI, Sanity, GROQ Query Language, Zod, SvelteKit Superforms for server and client form validation, ESLint."
-	codeURL="https://github.com/ch33kaboo/jv"
 	previewURL=""
 />
 
