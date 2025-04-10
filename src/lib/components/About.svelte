@@ -20,9 +20,9 @@
 		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
 			{$_('aboutSection.goals')}
 		</p>
-		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
+		<!-- <p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
 			{$_('aboutSection.additionalInterests')}
-		</p>
+		</p> -->
 		<a
 			class="border rounded-md px-4 py-2 mt-4 bg-white text-base-100 font-bold flex w-fit gap-2 items-center shadow"
 			target="_blank"

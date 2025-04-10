@@ -15,7 +15,7 @@
 	},
 	"aboutSection": {
 		"title": "About Me",
-		"intro": "Hi, I'm Chakib Ouzane (aka <span class='italic font-sans'>ch33kaboo</span>), a 23-year-old final-year Computer Science student from Algeria. As a full-stack web developer, I have a passion for building efficient, scalable backend systems alongside their intuitive, responsive frontend experiences to create seamless full-stack solutions.",
+		"intro": "Hi, I'm Chakib Ouzane (aka <span class='italic font-sans'>ch33kaboo</span>), a 23 year-old Computer Science graduate. As a full-stack web developer, I have a passion for building efficient, scalable backend systems alongside their intuitive, responsive frontend experiences to create seamless full-stack solutions.",
 		"portfolio": "My portfolio showcases a range of projects that reflect my skills and enthusiasm for development.",
 		"goals": "I'm continuously exploring new technologies and working on projects that challenge me to grow. My goal is to contribute to innovative projects that push the boundaries of web development.",
 		"additionalInterests": "Alongside web development, I’m also interested in networking and IoT, and I’ve had the opportunity to experiment with these technologies in university labs.",
