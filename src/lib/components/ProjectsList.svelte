@@ -7,7 +7,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project8.projectTitle')}
 	description={$_('projectsSection.projectsContent.project8.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
-	techStack="SvelteKit, Svelte, Supabase, TypeScript, Tailwind CSS, DaisyUI, Sanity, GROQ Query Language, Zod, SvelteKit Superforms for server and client form validation, ESLint."
+	techStack="SvelteKit, Svelte, Supabase, Tailwind CSS, DaisyUI, Sanity CMS, GROQ Query Language, Zod, SvelteKit Superforms (server & client side form validation)."
 	codeURL="https://github.com/ch33kaboo/jv"
 	previewURL="https://jeunessevolontairesba.dz"
 />
@@ -34,7 +34,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project2.projectTitle')}
 	description={$_('projectsSection.projectsContent.project2.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project2.keyFeatures')}
-	techStack="Svelte with typescript typing, Tailwind CSS, DaisyUI, svelte-i18n."
+	techStack="Svelte, Tailwind CSS, DaisyUI, svelte-i18n."
 	codeURL="https://github.com/boite-informatique/startup-front"
 	previewURL=""
 />
@@ -59,7 +59,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project5.projectTitle')}
 	description={$_('projectsSection.projectsContent.project5.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project5.keyFeatures')}
-	techStack="Next.js, React, Sanity, GROQ Query Language, TypeScript, Tailwind CSS, DaisyUI, ESLint."
+	techStack="Next.js, React, Sanity, GROQ Query Language, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/ch33kaboo/sodea"
 	previewURL=""
 />
@@ -77,7 +77,7 @@
 	projectTitle={$_('projectsSection.projectsContent.project7.projectTitle')}
 	description={$_('projectsSection.projectsContent.project7.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project7.keyFeatures')}
-	techStack="Node.js, Express, MongoDB, Mongoose, JWT, Bcrypt, Multer for file upload, Socket.io, Nodemailer, Joi for schema validation."
+	techStack="Node.js, Express, MongoDB, Mongoose, JWT, Multer (file upload), Socket.io, Nodemailer, Joi (schema validation)."
 	codeURL="https://github.com/boite-informatique/esi-hub-backend"
 	previewURL=""
 />
