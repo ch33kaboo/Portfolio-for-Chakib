@@ -114,6 +114,11 @@
 				"projectTitle": "Voiture Robot",
 				"description": "C’était un projet de voiture télécommandée via le web, développé dans le cadre de mon projet universitaire multidisciplinaire de 4ᵉ année en informatique, en collaboration avec trois de mes amis.",
 				"keyFeatures": "Contrôle à distance de la voiture pour avancer, reculer, tourner à droite et à gauche, détection d'obstacles avec un capteur à ultrasons (HC-SR04), vue à 180° grâce à une caméra contrôlée à distance via un servo-moteur (seule la caméra tourne, la voiture reste en place), contrôle du flash pour une visibilité dans l'obscurité, détection d'objets implémentée avec YOLO, ESP32 servant de serveur web pour héberger et fournir la page web accessible à distance."
+			},
+			"project16": {
+				"projectTitle": "Tic Tac Fun",
+				"description": "J’ai développé une collection interactive et en temps réel de variantes du jeu Morpion (X/O), attirant plus de 2 000 visiteurs par jour (au moment de la rédaction).",
+				"keyFeatures": "Variantes classiques et innovantes du jeu Morpion (X/O), gameplay multijoueur en temps réel, design responsive, expérience utilisateur fluide sur tous les appareils, et intégration de Supabase pour les services backend."
 			}
 		}
 	},

@@ -114,6 +114,11 @@
 				"projectTitle": "Roboterauto",
 				"description": "Dies war ein webbasiertes ferngesteuertes Auto, das im Rahmen meines interdisziplinären Informatikprojekts im 4. Studienjahr zusammen mit drei meiner Freunde entwickelt wurde.",
 				"keyFeatures": "Fernsteuerung des Autos zum Vorwärts- und Rückwärtsfahren, Rechts- und Linksdrehen, Hinderniserkennung mit einem Ultraschallsensor (HC-SR04), 180°-Kameraansicht dank einer ferngesteuerten Servomotorsteuerung (nur die Kamera dreht sich, das Auto bleibt stehen), Blitzsteuerung für Sichtbarkeit bei Dunkelheit, Objekterkennung mit YOLO implementiert, ESP32 fungiert als Webserver, um die Webseite für den Fernzugriff bereitzustellen."
+			},
+			"project16": {
+				"projectTitle": "Tic Tac Fun",
+				"description": "Ich habe eine interaktive und live spielbare Sammlung von Tic-Tac-Toe-Varianten entwickelt, die zum Zeitpunkt des Schreibens über 2.000 tägliche Besucher anzog.",
+				"keyFeatures": "Klassische und innovative Tic-Tac-Toe-Varianten, Echtzeit-Multiplayer-Gameplay, responsives Design, nahtloses Nutzererlebnis auf allen Geräten und Integration von Supabase für Backend-Dienste."
 			}
 		}
 	},

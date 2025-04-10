@@ -114,6 +114,11 @@
 				"projectTitle": "Robot Car",
 				"description": "This was a web-based remote-controlled car project developed as part of my 4th-year multidisciplinary Computer Science university project, in collaboration with three of my friends.",
 				"keyFeatures": "Remotely controlling the car to go forward, backward, turn right, and turn left, obstacle detection using an ultrasonic sensor (HC-SR04), full 180° camera view via a remotely controlled servo motor (camera rotation only, the car remains stationary), flash control for visibility in the dark, object detection implemented with YOLO, ESP32 acting as a web server to host and serve the web page for remote access."
+			},
+			"project16": {
+				"projectTitle": "Tic Tac Fun",
+				"description": "Developed a live, interactive collection of Tic-Tac-Toe game variations, the website is attracting over 2,000 daily visitors (by the time of writing this).",
+				"keyFeatures": "Classic and innovative Tic-Tac-Toe variations, real-time multiplayer gameplay, responsive design, seamless user experience across devices, and integration with Supabase for backend services."
 			}
 		}
 	},

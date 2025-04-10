@@ -13,6 +13,15 @@
 />
 
 <ProjectCard
+	projectTitle={$_('projectsSection.projectsContent.project16.projectTitle')}
+	description={$_('projectsSection.projectsContent.project16.description')}
+	keyFeatures={$_('projectsSection.projectsContent.project16.keyFeatures')}
+	techStack="Svelte 5, SvelteKit, Tailwind CSS, Supabase."
+	codeURL="https://github.com/ch33kaboo/tictacfun"
+	previewURL="https://tictacfun.live"
+/>
+
+<ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project1.projectTitle')}
 	description={$_('projectsSection.projectsContent.project1.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project1.keyFeatures')}
