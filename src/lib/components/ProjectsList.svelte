@@ -55,14 +55,14 @@
 	previewURL=""
 />
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project6.projectTitle')}
 	description={$_('projectsSection.projectsContent.project6.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project6.keyFeatures')}
 	techStack=""
 	codeURL="https://github.com/ch33kaboo/AlphaBit-coding-challenge-4.0-challenges"
 	previewURL=""
-/>
+/> -->
 
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project7.projectTitle')}
@@ -73,13 +73,13 @@
 	previewURL=""
 />
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project9.projectTitle')}
 	description={$_('projectsSection.projectsContent.project9.description')}
 	techStack="SvelteKit, Svelte, TypeScript, Tailwind CSS, DaisyUI, ESLint."
 	codeURL="https://github.com/ch33kaboo/svelteKit-starter"
 	previewURL=""
-/>
+/> -->
 
 <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project10.projectTitle')}
@@ -90,45 +90,45 @@
 	previewURL="https://youtu.be/KnjyJFwtyvY?si=G3U8SZ4dbK0K5TEj"
 />
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project11.projectTitle')}
 	description={$_('projectsSection.projectsContent.project11.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project11.keyFeatures')}
 	techStack="Vanilla HTML, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/ch33kaboo/TravelTip"
 	previewURL="https://traveltip.netlify.app/public/index.html"
-/>
+/> -->
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project12.projectTitle')}
 	description={$_('projectsSection.projectsContent.project12.description')}
 	techStack="Bash script (Shell Script)."
 	codeURL="https://github.com/ch33kaboo/no-push-main"
 	previewURL=""
-/>
+/> -->
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project13.projectTitle')}
 	description={$_('projectsSection.projectsContent.project13.description')}
 	techStack="Svelte, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/ch33kaboo/cool-chat-box"
 	previewURL="https://cool-chat-box.netlify.app"
-/>
+/> -->
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project14.projectTitle')}
 	description={$_('projectsSection.projectsContent.project14.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project14.keyFeatures')}
 	techStack="Svelte, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/ch33kaboo/svelte-todo-app"
 	previewURL="https://todo-svelte-app.netlify.app"
-/>
+/> -->
 
-<ProjectCard
+<!-- <ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project15.projectTitle')}
 	description={$_('projectsSection.projectsContent.project15.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project15.keyFeatures')}
 	techStack="ESP32-CAM, Arduino Motor Shield, HTML and Vanilla JS for the web interface, YOLO model."
 	codeURL="https://github.com/boite-informatique/Car-Robot"
 	previewURL="https://github.com/boite-informatique/Car-Robot-docs/blob/main/présentation.pdf"
-/>
+/> -->
