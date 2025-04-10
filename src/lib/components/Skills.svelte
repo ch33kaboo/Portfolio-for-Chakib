@@ -17,7 +17,6 @@
 				<li>JavaScript</li>
 				<li>TypeScript</li>
 				<li>python</li>
-				<li>C/C++</li>
 				<li>SQL</li>
 			</ul>
 		</div>
@@ -40,6 +39,7 @@
 		<div class="flex flex-col gap-3 min-w-40">
 			<h6 class="font-semibold text-lg">{$_('skillsSection.databases')}</h6>
 			<ul class="list-disc list-inside">
+				<li>Supabase</li>
 				<li>MongoDB</li>
 				<li>PostgreSQL</li>
 				<li>Redis</li>
@@ -54,13 +54,13 @@
 				<li>Linux & Scripting</li>
 			</ul>
 		</div>
-		<div class="flex flex-col gap-3 min-w-40">
+		<!-- <div class="flex flex-col gap-3 min-w-40">
 			<h6 class="font-semibold text-lg">{$_('skillsSection.itSystems')}</h6>
 			<ul class="list-disc list-inside">
 				<li>{$_('skillsSection.networking')}</li>
 				<li>IoT</li>
 				<li>{$_('skillsSection.arduino')}</li>
 			</ul>
-		</div>
+		</div> -->
 	</div>
 </section>
