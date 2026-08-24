@@ -3,7 +3,7 @@
 	import About from '$lib/components/About.svelte';
 	import Skills from '$lib/components/Skills.svelte';
 	import Projects from '$lib/components/Projects.svelte';
-	import Blog from '$lib/components/Blog.svelte';
+	// import Blog from '$lib/components/Blog.svelte';
 	import Contact from '$lib/components/Contact.svelte';
 </script>
 
@@ -11,5 +11,5 @@
 <About />
 <Skills />
 <Projects />
-<Blog />
+<!-- <Blog /> -->
 <Contact />

@@ -32,7 +32,7 @@
 		<li><a class="capitalize text-base" href="#about">{$_('navbar.about')}</a></li>
 		<li><a class="capitalize text-base" href="#skills">{$_('navbar.skills')}</a></li>
 		<li><a class="capitalize text-base" href="#projects">{$_('navbar.projects')}</a></li>
-		<li><a class="capitalize text-base" href="#blog">{$_('navbar.blog')}</a></li>
+		<!-- <li><a class="capitalize text-base" href="#blog">{$_('navbar.blog')}</a></li> -->
 		<li><a class="capitalize text-base" href="#contact">{$_('navbar.contact')}</a></li>
 		<li>
 			<details>
