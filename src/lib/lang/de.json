@@ -75,7 +75,7 @@
 			"project7": {
 				"projectTitle": "ESI Hub",
 				"description": "Eine Webplattform für Studierende der ESI SBA mit integriertem Chat, entwickelt, um die E-Mail-Überlastung zu reduzieren, indem Fundsachen-E-Mails durch einen dedizierten Bereich zum Veröffentlichen oder Durchsuchen verlorener Gegenstände ersetzt werden.",
-				"keyFeatures": "Auf Studierende und Universitätspersonal beschränkte Konten, rollenbasierte Zugriffskontrolle (RBAC), integrierter Chat für die Kommunikation zwischen Nutzern, und ein Fundsachen-Modul zum Veröffentlichen oder Durchsuchen verlorener Gegenstände."
+				"keyFeatures": "Auf Studierende und Universitätspersonal beschränkte Konten, rollenbasierte Zugriffskontrolle (RBAC), integrierter Chat für die Kommunikation zwischen Nutzern, und ein Modul zum Veröffentlichen oder Durchsuchen verlorener Gegenstände."
 			},
 			"project8": {
 				"projectTitle": "Jeunesse Volontaire Website",

@@ -74,8 +74,8 @@
 			},
 			"project7": {
 				"projectTitle": "ESI Hub",
-				"description": "A web platform for ESI SBA students, featuring in-app chat, built to reduce email overload by replacing lost-and-found emails with a dedicated section to post or browse lost items.",
-				"keyFeatures": "University-restricted accounts (students & staff), role-based access control (RBAC), in-app chat for user communication, and a lost-and-found module to post or browse lost items."
+				"description": "A web platform for ESI SBA students, featuring in-app chat, built to reduce email overload by replacing lost-and-found emails with a section to post or browse lost items.",
+				"keyFeatures": "University-restricted accounts (students & staff), role-based access control (RBAC), in-app chat for user communication, and a module to post or browse lost items."
 			},
 			"project8": {
 				"projectTitle": "Jeunesse Volontaire Website",

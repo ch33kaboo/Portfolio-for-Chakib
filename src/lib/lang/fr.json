@@ -75,7 +75,7 @@
 			"project7": {
 				"projectTitle": "ESI Hub",
 				"description": "Une plateforme web pour les étudiants de l'ESI, avec un chat intégré, conçue pour réduire la surcharge d'emails en remplaçant les emails d'objets perdus par une section pour les publier ou consulter.",
-				"keyFeatures": "Comptes réservés aux étudiants et au personnel de l'université, contrôle d'accès basé sur les rôles (RBAC), chat intégré pour la communication entre utilisateurs, et un module d'objets perdus pour publier ou consulter les objets perdus."
+				"keyFeatures": "Comptes réservés aux étudiants et au personnel de l'université, contrôle d'accès basé sur les rôles (RBAC), chat intégré pour la communication entre utilisateurs, et un module pour publier ou consulter les objets perdus."
 			},
 			"project8": {
 				"projectTitle": "Site Web de Jeunesse Volontaire",
