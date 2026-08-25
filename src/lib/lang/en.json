@@ -8,10 +8,14 @@
 		"projects": "Projects",
 		"blog": "Blog",
 		"contact": "Contact",
-		"language": "language"
+		"language": "language",
+		"publications": "Publications"
 	},
 	"heroSection": {
 		"description": "<span class='text-gray-100'>Software Engineer, exploring AI & Cybersecurity.</span> Currently diving into Machine Learning and IoT Security."
+	},
+	"publicationSection": {
+		"title": "Publications"
 	},
 	"aboutSection": {
 		"title": "About Me",

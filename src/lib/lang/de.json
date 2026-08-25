@@ -8,10 +8,14 @@
 		"projects": "Projekte",
 		"blog": "Blog",
 		"contact": "Kontakt",
-		"language": "Sprache"
+		"language": "Sprache",
+		"publications": "Publikationen"
 	},
 	"heroSection": {
 		"description": "<span class='text-gray-100'>Software-Ingenieur, der sich mit KI & Cybersicherheit beschäftigt.</span> Aktuell vertieft in Machine Learning und IoT-Sicherheit."
+	},
+	"publicationSection": {
+		"title": "Publikationen"
 	},
 	"aboutSection": {
 		"title": "Über mich",

@@ -5,10 +5,12 @@
 	import Projects from '$lib/components/Projects.svelte';
 	// import Blog from '$lib/components/Blog.svelte';
 	import Contact from '$lib/components/Contact.svelte';
+	import Publications from '$lib/components/Publications.svelte';
 </script>
 
 <HeroSection />
 <About />
+<Publications />
 <Skills />
 <Projects />
 <!-- <Blog /> -->

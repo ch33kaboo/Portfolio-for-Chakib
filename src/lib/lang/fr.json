@@ -8,10 +8,14 @@
 		"projects": "Projets",
 		"blog": "Blog",
 		"contact": "Contact",
-		"language": "Langue"
+		"language": "Langue",
+		"publications": "Publications"
 	},
 	"heroSection": {
 		"description": "<span class='text-gray-100'>Ingénieur Logiciel, explorant l'IA & la Cybersécurité.</span> Actuellement plongé dans le Machine Learning et la Sécurité IoT."
+	},
+	"publicationSection": {
+		"title": "Publications"
 	},
 	"aboutSection": {
 		"title": "À propos de moi",
