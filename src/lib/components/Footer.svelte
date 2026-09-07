@@ -6,7 +6,7 @@
 		Deployed on Netlify, code available on <a
 			target="_blank"
 			class="link text-blue-400"
-			href="https://github.com/chakibouzane/Portfolio-for-Chakib">GitHub</a
+			href="https://github.com/chakibouzane/personal-website">GitHub</a
 		>.
 	</p>
 </footer>
