@@ -1,6 +1,6 @@
-# Portfolio for Chakib
+# Personal Website
 
-This repository contains the source code for my personal portfolio website, [**chakib.tech**](https://chakib.tech).
+This repository contains the source code for my personal website, [**chakib.tech**](https://chakib.tech).
 
 ### Used Technologies
 
